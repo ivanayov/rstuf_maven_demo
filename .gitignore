@@ -1,0 +1,4 @@
+mvn-demo-package/demopackage-app/target 
+malicious-mvn-demo-package/maliciousdemopackage-app/target 
+demo-app/target
+demo-app/tmp/

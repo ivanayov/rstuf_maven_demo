@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "name" : "John Doe",
+            "e-mail" : "john@doe.com",
+            "legalID" : "9603182854",
+            "position": "MTS5",
+            "salary": 12000
+        },
+        {
+            "name" : "Chuck Norris",
+            "e-mail" : "chuck@norris.com",
+            "legalID" : "0129384634",
+            "position": "MTS19",
+            "salary": 3560000
+        }
+    ]
+}
